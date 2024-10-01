@@ -13,9 +13,10 @@
 Предсказать вероятность покупки в течение 90 дней.    
 --------------------------------------------------------------------------------
 **Разработали модель для предсказаний.** 
-![Лучшая модель:]("https://github.com/Alexrazz/online_store/blob/master/best_model.png")
+![Лучшая модель:](https://github.com/Alexrazz/online_store/blob/master/best_model.png)
 --------------------------------------------------------------------------------
 
-![phik:]("https://github.com/Alexrazz/online_store/blob/master/corr.png")
+![phik:](https://github.com/Alexrazz/online_store/blob/master/corr.png)
+![future_importance:](https://github.com/Alexrazz/online_store/blob/master/future_importance.png)
 
 
