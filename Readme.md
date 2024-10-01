@@ -13,9 +13,9 @@
 Предсказать вероятность покупки в течение 90 дней.    
 --------------------------------------------------------------------------------
 **Разработали модель для предсказаний.** 
-![Лучшая модель:]("C:\Users\ASUS\Desktop\online_store\best_model.png")
+![Лучшая модель:]("https://github.com/Alexrazz/online_store/blob/master/best_model.png")
 --------------------------------------------------------------------------------
 
-![phik:]("C:\Users\ASUS\Desktop\online_store\corr.png")
+![phik:]("https://github.com/Alexrazz/online_store/blob/master/corr.png")
 
 
